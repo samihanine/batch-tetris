@@ -3,7 +3,7 @@ setlocal EnableDelayedExpansion
 title T‚tris
 mode con cols=77 lines=36
  
- :: programme crée par Bad-Code
+ :: programme crée par Sam4AF
 
  Rem ---------------------- Copyright ----------------------------------
 
